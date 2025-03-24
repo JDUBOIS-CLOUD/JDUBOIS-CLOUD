@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏛️ Jean Dupont - Architecte de Solutions en herbe 🏛️</h1>
+  <h1>🏛️ JULES DUBOIS - Architecte de Solutions en herbe 🏛️</h1>
   <p>💡 Concevoir des systèmes scalables, sécurisés et économiques, c’est ma mission ! 💡</p>
 </div>
 
