@@ -8,7 +8,7 @@
 ## **🧠 QUI SUIS-JE ? 🧠**
 Je suis **Jules DUBOIS**, un passionné de cloud et d’architecture qui transforme des idées en solutions techniques robustes. En tant que futur **Solution Architect**, j’aime dessiner des systèmes, optimiser les ressources et anticiper les besoins. Mon terrain de jeu ? AWS, le serverless, et les designs qui tiennent la route !  
 
-- 🌍 **Localisation** : Paris, France  
+- 🌍 **Localisation** : France  
 - 📧 **Email** : [maildejulesdubois@gmail.com](mailto:maildejulesdubois@gmail.com)  
 - 🔗 **LinkedIn** : [linkedin.com/in/julesDubois](https://www.linkedin.com/in/jules-dubois-3a676532b/)  
 
